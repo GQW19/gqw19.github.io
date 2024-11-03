@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-09-13
+date: 2024-10-20
 inline: true
 related_posts: false
 ---
 
-Our paper on IPv6 Scanning Analysis accepted to [IMC '24](https://conferences.sigcomm.org/imc/2024/)
+Invited to give a talk at MAPRG at [IETF 2024](https://www.ietf.org/meeting/121/) for Seeds of Scanning. 

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-04-11
+date: 2023-10-10
 inline: true
 related_posts: false
 ---
 
-We have open sourced [6Sense](https://github.com/IPv6-Security/6Sense) along with our full suite of [IPv6 scanning tools](https://github.com/orgs/IPv6-Security/repositories).
+Our paper on [6Sense, an IPv6 scanning system](https://www.usenix.org/system/files/usenixsecurity24-williams.pdf), accepted to the [33rd USENIX Security Symposium 2024](https://www.usenix.org/conference/usenixsecurity24). 

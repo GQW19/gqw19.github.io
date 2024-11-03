@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-08-17
+date: 2024-09-13
 inline: true
 related_posts: false
 ---
 
-Presented [6Sense](https://www.usenix.org/conference/usenixsecurity24/presentation/williams) at the [33rd USENIX Security Symposium 2024](https://www.usenix.org/conference/usenixsecurity24).
+Our paper on IPv6 Scanning Analysis accepted to [IMC '24](https://conferences.sigcomm.org/imc/2024/)
