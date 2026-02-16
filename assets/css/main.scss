@@ -23,3 +23,16 @@ $max-content-width: {{ site.max_width }};
   // "tabler-icons/tabler-icons-filled.scss",
   // "tabler-icons/tabler-icons-outline.scss"
 ;
+
+/* Fix cards inside <a> so they take full width */
+.col > a {
+  display: block;     /* make <a> a block element so it fills the column */
+  width: 100%;        /* ensure full column width */
+  text-decoration: none; /* optional: remove underline */
+}
+
+.col > a .card {
+  width: 100%;       /* ensure card fills the <a> */
+  display: block;    /* make card behave as block inside link */
+}
+
