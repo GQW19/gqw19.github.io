@@ -36,3 +36,6 @@ $max-content-width: {{ site.max_width }};
   display: block;    /* make card behave as block inside link */
 }
 
+.ai {
+  font-size: 2em; /* 2× the default size */
+}

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CS PhD Student @ Georgia Tech
+subtitle: CS PhD Candidate @ Georgia Tech
 
 
 profile:
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a CS Ph.D. Student at Georgia Institute of Technology specializing in Computer Science and Cybersecurity. My research is at the intersection of **Cybersecurity**, **Network Measurement**, and **Machine Learning**. Recently, my work has focused on approaches and techniques for IPv6 Internet-wide scanning, and deploying IPv6 scanning for Internet-wide Security experiments (like ZMap did for IPv4).  
+I am a CS Ph.D. Candidate at Georgia Institute of Technology specializing in Computer Science and Cybersecurity. My research is at the intersection of **Cybersecurity**, **Network Measurement**, and **Machine Learning**. My recent work focuses on approaches and techniques for IPv6 Internet-wide scanning, and deploying IPv6 scanning for Internet-wide Security experiments (like ZMap did for IPv4). If you're interested in my work and want to get in touch feel free to reach out (email is best)!
 
 
 
